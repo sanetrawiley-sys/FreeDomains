@@ -1,8 +1,17 @@
-# 🌐 Claim Free Domains — Powered by Stackryze Domains
+# 🌐 Claim Free Domains — Powered by Stackryze
 
-**Join our Discord:** https://discord.gg/wr7s97cfM7
 
----
+<p align="center">
+  <a href="https://trendshift.io/repositories/44275?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-44275">
+    <img
+      src="https://trendshift.io/api/badge/trendshift/repositories/44275/daily?language=JavaScript"
+      alt="stackryze/FreeDomains | Trendshift"
+      width="250"
+      height="55"
+    />
+  </a>
+</p>
+
 
 **Stackryze Domains** runs **Multiple** Domains Names, a free managed subdomain service for developers, students, and open-source communities.
 
